@@ -1,16 +1,27 @@
-# paparahome
+ 
+Papara Home Page Clone
 
-A new Flutter project.
+-
 
-## Getting Started
+Used packages
+*google_fonts
 
-This project is a starting point for a Flutter application.
+Sample Transaction Map
 
-A few resources to get you started if this is your first Flutter project:
+      "transactionsName": "İsmail Döndü",
+      "transactionsType": "Gelen Transfer",
+      "transactionsDate": "6 Haziran 2021 19:39",
+      "transactionsAmount": "TL90,00",
+      "transactionsAmountType": "in",
+      "transactionsImage": "transactionsName",
+  
+  transactionsName = "Fatih Yılmaz"
+  transactionsImage == transactionsName 
+  transactionsImage = FY (CircleAvatar Text)
+  
+![Screenshot_9](https://user-images.githubusercontent.com/49169815/121418814-fdb74300-c973-11eb-905d-865c3c07aecf.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+-
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Screenshot_8](https://user-images.githubusercontent.com/49169815/121418826-00b23380-c974-11eb-9d68-19d0a6235266.png)
